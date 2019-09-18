@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mayra Gomes",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
